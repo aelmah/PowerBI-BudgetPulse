@@ -55,7 +55,7 @@ This **Personal Financial Dashboard** visualizes income, expenses, and savings t
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/aelmah/PowerBI-BudgetPulse.git
-   ```bash
+
 
 2. **Open in Power BI:**
 
